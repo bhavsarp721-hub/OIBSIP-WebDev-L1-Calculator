@@ -1,10 +1,10 @@
 # Calculator
 
 ## Project Name
-WebDev-L2-Calculator
+WebDev-L1-Calculator
 
 ## Description
-This project is a simple and responsive Calculator developed using HTML, CSS, and JavaScript. It performs basic arithmetic operations through a clean and user-friendly interface.
+This project is a simple and responsive calculator developed using HTML, CSS, and JavaScript. It performs basic arithmetic operations through a clean and user-friendly interface.
 
 ## Features
 - Addition
@@ -24,23 +24,26 @@ This project is a simple and responsive Calculator developed using HTML, CSS, an
 
 ## Project Structure
 
+```
+WebDev-L1-Calculator/
 │── index.html
-│── style.css
-│── script.js
 │── README.md
-
 ```
 
 ## How to Run
-1. Download or clone the repository.
-2. Open the `WebDev-L2-Calculator` folder.
-3. Double-click `index.html` or open it in any web browser.
+
+1. Download or clone this repository.
+2. Open the project folder.
+3. Double-click `index.html` to open the calculator in your web browser.
 
 ## Output
-The calculator allows users to perform basic mathematical calculations with a simple and responsive interface.
+
+The calculator performs basic mathematical calculations through a simple and responsive interface.
 
 ## Author
+
 Pooja Bhavsar
 
 ## Internship
+
 Oasis Infobyte – Web Development and Designing Internship
